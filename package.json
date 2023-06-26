@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "dev": "nodemon ../desafio-backend-03-dindin-t09/src/index"
+  },
+  "dependencies": {
+    "axios": "^1.3.4",
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "pg": "^8.9.0"
+  },
+  "devDependencies": {
+    "@types/swagger-ui-express": "^4.1.3",
+    "nodemon": "^2.0.20"
+  }
+}
